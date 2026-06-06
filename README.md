@@ -1,10 +1,10 @@
-# 📊 E-Commerce Sales Analytics Dashboard
+# E-Commerce Sales Analytics Dashboard
 
 An end-to-end Data Analytics project built using **Python, SQL, Pandas, Matplotlib, Power BI, and SQLite** to analyze retail sales data, uncover business insights, perform customer segmentation, and forecast future sales trends.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project demonstrates a complete analytics workflow:
 
@@ -20,7 +20,7 @@ The goal is to transform raw sales data into actionable business insights for de
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & Analysis
 - Python
@@ -42,7 +42,7 @@ The goal is to transform raw sales data into actionable business insights for de
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ECOMMERCE_SALES_ANALYTICS
@@ -101,7 +101,7 @@ ECOMMERCE_SALES_ANALYTICS
 
 ---
 
-## 📈 Key Business Metrics
+##  Key Business Metrics
 
 | Metric | Value |
 |----------|----------|
@@ -112,7 +112,7 @@ ECOMMERCE_SALES_ANALYTICS
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Executive Dashboard
 
@@ -165,7 +165,7 @@ Features:
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 ### Data Cleaning
 
@@ -198,7 +198,7 @@ Customers were segmented into:
 
 ---
 
-## 🗄️ SQL Analysis
+## SQL Analysis
 
 The project includes SQL queries for:
 
@@ -210,7 +210,7 @@ Executed using SQLite for business reporting.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Clone Repository
 
@@ -232,7 +232,7 @@ python main.py
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Generated over **$2.29 Million** in sales revenue.
 - Technology is the highest-performing category.
@@ -242,7 +242,7 @@ python main.py
 
 ---
 
-## 🎯 Resume Highlights
+## Resume Highlights
 
 - Analyzed retail sales data using Python, SQL, and Pandas.
 - Built Power BI dashboards for business intelligence reporting.
@@ -252,7 +252,7 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Girish Gowda**
 
