@@ -254,7 +254,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Girish**
+**Girish Gowda**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning
 
